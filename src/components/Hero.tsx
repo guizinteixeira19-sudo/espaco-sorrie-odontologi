@@ -9,7 +9,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url("https://images.pexels.com/photos/5728234/pexels-photo-5728234.jpeg?auto=compress&cs=tinysrgb&w=1600")',
+          backgroundImage: 'url("https://pt.pngtree.com/free-backgrounds-photos/sorriso-pictures")',
         }}
       />
 
